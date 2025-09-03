@@ -1,0 +1,5 @@
+# to activate the environment we run it to get authorised 
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process 
+
+#Command to check the terminal path.
+terminal.integrated.cwd
